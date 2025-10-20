@@ -1,7 +1,7 @@
 <!--
 This file can be used to describe your kennel, replace "<kennel-name>" with the name of your kennel.
 
-For more info on kennels, see https://sites.google.com/view/george-lang/documentation/standard-docs/kennels/creating-kennels
+For more info on kennels, see https://george-language.github.io/docs/kennels/creating
 -->
 
 # `<kennel-name>`
